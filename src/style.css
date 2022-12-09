@@ -1,0 +1,10 @@
+.collapse {
+    transition: all 0.4s ease-in-out !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: translateX(-100%) !important;
+}
+
+.sidebar {
+    transform: translateX(0%);
+}
